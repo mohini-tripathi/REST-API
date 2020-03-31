@@ -14,7 +14,7 @@ $ git branch new-branch
 $ git checkout new-branch
 ```
 
-##### checkout branch and install nodejs module via npm command
+##### Install nodejs module via npm command
 ```
  $ npm install
  $ node server.js 
