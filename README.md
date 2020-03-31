@@ -20,4 +20,4 @@ $ git checkout new-branch
  $ node server.js 
 ```
 
-### REST or RESTful stands for Representational State Transfer. It is an architectural style as well as an approach for communications purposes that is often used in various web services development. In simpler terms, it is an application program interface (API) that makes use of the HTTP requests to GET, PUT, POST and DELETE the data over WWW.
+REST or RESTful stands for Representational State Transfer. It is an architectural style as well as an approach for communications purposes that is often used in various web services development. In simpler terms, it is an application program interface (API) that makes use of the HTTP requests to GET, PUT, POST and DELETE the data over the site.
