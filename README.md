@@ -2,9 +2,9 @@
 
 This is a basic project to work with REST API using node.js
 
-### project dependencies
+### Project dependencies
 
-install Node.js from (https://nodejs.org/en/)
+Install Node.js from (https://nodejs.org/en/)
 
 ##### How to clone this repository:
 ```
