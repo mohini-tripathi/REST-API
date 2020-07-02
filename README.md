@@ -2,7 +2,7 @@
 
 This is a basic project to work with REST API using node.js
 
-### Project dependencies
+### Dependencies
 
 Install Node.js from (https://nodejs.org/en/)
 
